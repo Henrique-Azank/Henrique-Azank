@@ -8,6 +8,9 @@
  Engineering and Economics. I have a deep appreciation for Science as a whole whether it is biological, political, mechanical, sociological or economical
  in nature. In time, I look forward to developt applications/study cases in all of these fields. 
  
+ As a second note, I also have experience as a project manager (both in traditional and agile methodologies) and am currently enrolled as a post-graduate
+ student at FGV (Fundação Getúlio Vargas - SP/Brazil) studying project management.  
+ 
  I have experience with both Python and R for Data Science, but also developt applications using VBA and spreadsheet modelling. I also have a strong 
  statistics background, always going the extra mile when fitting models in order to fully understand exactly what they tell us. 
  
