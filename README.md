@@ -15,6 +15,7 @@
 in the statistics, math and Data Visualization, but lack knowlege in how to share my models in a "production" level. 
 
 - 📫 How to reach me: 
+
 Personal Email: henriqueazank@gmail.com
 
 linkedin: https://www.linkedin.com/in/henrique-azank/
