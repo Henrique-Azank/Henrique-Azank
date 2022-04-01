@@ -16,5 +16,6 @@ in the statistics, math and Data Visualization, but lack knowlege in how to shar
 
 - 📫 How to reach me: 
 Personal Email: henriqueazank@gmail.com
+
 linkedin: https://www.linkedin.com/in/henrique-azank/
 
