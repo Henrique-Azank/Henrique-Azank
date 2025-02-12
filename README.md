@@ -1,25 +1,35 @@
-- 👋 Hi, I’m @Henrique-Azank
+## Hi👋, I’m Henrique Azank
 
- I'm a biochemical engineering graduate from the University of São Paulo (Brazil), and I'm interested in all things Data Science and Engineering. 
- I'm really into using Machine Learning and Statistics in the field of Bioenginnering as a whole, not just bioinformatics. I believe that there is 
- a limitless source of Data in Bioengineering not being used in an efficient way. 
+<br />
+
+<!-- Main header -->
+<p align="justify">
+I'm a biochemical engineering 🧬 graduate from the University of São Paulo (Brazil), and I'm interested in all things programming 🧑‍💻 and Engineering 👨‍🔬,
+currently developing solutions for the sugar cane 🌱 business with my partners at <a href="www.canac.com.br"><span>CANAC</span></a>.   
+</p>
+
+<p align="justify">
+I really enjoy programming all sorts things, from CLIs, data processing pipelines, microservices, APIs, mobile applications and good old front-end applications.
+I have a really deep passion for creating interactive data visualizations from absolute scratch, integrating data and visual storytelling has always been one of my favorite activities. 
+</p>
+
+<p align="justify">
+As a manner of personal preference, I always prefer to go as far as possible to understand the abstractions that I use in a daily basis, always striving to understand more and more of the
+capabilities we have in order to deliver useful and performant programs. 
+</text>
+
+<p align="justify">
+Currently woking on my developer page and some side-projects in programming areas of interest, such as game development 🎮, geoprocessing pipelines 🛰️, physics and graphical engines ⚙️, design patterns 📄 and etc... 
+</p>
+
+<br />
+
+🧑‍💻 Some of my favorite technologies:
+
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
  
- I'm not limited on the Bioengineering though. I have developted projects in other unrelated fields, in areas such as Customer Succsess, Production 
- Engineering and Economics. I have a deep appreciation for Science as a whole whether it is biological, political, mechanical, sociological or economical
- in nature. In time, I look forward to developt applications/study cases in all of these fields. 
- 
- As a second note, I also have experience as a project manager (both in traditional and agile methodologies) and am currently enrolled as a post-graduate
- student at FGV (Fundação Getúlio Vargas - SP/Brazil) studying project management.  
- 
- I have experience with both Python and R for Data Science, but also developt applications using VBA and spreadsheet modelling. I also have a strong 
- statistics background, always going the extra mile when fitting models in order to fully understand exactly what they tell us. 
- 
-- 🌱 I’m currently learning how to share my work and collaborate with fellow Data Scientists in meaningful projects. I have a strong grasp 
-in the statistics, math and Data Visualization, but lack knowlege in how to share my models in a "production" level. 
+📫 How to reach me (links): 
 
-- 📫 How to reach me: 
-
-Personal Email: henriqueazank@gmail.com
-
-linkedin: https://www.linkedin.com/in/henrique-azank/
-
+[![Alt Text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueazank@gmail.com)
+[![Alt Text](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Henrique-Azank)
+[![Alt Text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-azank/)
