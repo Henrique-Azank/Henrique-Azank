@@ -9,7 +9,7 @@ currently developing solutions for the sugar cane 🌱 business with my partners
 </p>
 
 <p align="justify">
-I really enjoy programming all sorts things, from CLIs, data processing pipelines, microservices, APIs, mobile applications and good old front-end applications.
+I really enjoy programming all sorts things, from CLIs :fast_forward:, data processing pipelines 💽, microservices :cloud:, APIs :on:, mobile applications :iphone: and good old front-end applications :computer:.
 I have a really deep passion for creating interactive data visualizations from absolute scratch, integrating data and visual storytelling has always been one of my favorite activities. 
 </p>
 
