@@ -5,7 +5,7 @@
 <!-- Main header -->
 <p align="justify">
 I'm a biochemical engineering 🧬 graduate from the University of São Paulo (Brazil), and I'm interested in all things programming 🧑‍💻 and Engineering 👨‍🔬,
-currently developing solutions for the sugar cane 🌱 business with my partners at <a href="www.canac.com.br"><span>CANAC</span></a>.   
+currently developing solutions for the sugar cane 🌱 business with my partners at <a href="https://www.canac.com.br"><span>CANAC</span></a>.   
 </p>
 
 <p align="justify">
