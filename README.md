@@ -4,8 +4,8 @@
 
 <!-- Main header -->
 <p align="justify">
-I'm a biochemical engineering 🧬 graduate from the University of São Paulo (Brazil), and I'm interested in all things programming 🧑‍💻 and Engineering 👨‍🔬,
-currently developing solutions for the sugar cane 🌱 business with my partners at <a href="https://www.canac.com.br"><span>CANAC</span></a>.   
+I'm a biochemical engineering graduate from the University of São Paulo (Brazil) but a developer by heart, interested in all aspects of computer science, programming 🧑‍💻 and Engineering 👨‍🔬.
+Currently developing solutions for the sugar cane 🌱 business with my partners at <a href="https://www.canac.com.br"><span>CANAC</span></a>.   
 </p>
 
 <p align="justify">
@@ -15,7 +15,7 @@ I have a really deep passion for creating interactive data visualizations from a
 
 <p align="justify">
 As a manner of personal preference, I always prefer to go as far as possible to understand the abstractions that I use in a daily basis, always striving to understand more and more of the
-capabilities we have in order to deliver useful and performant programs. 
+capabilities we have in order to deliver the mosy useful and performant programs possible. 
 </text>
 
 <p align="justify">
