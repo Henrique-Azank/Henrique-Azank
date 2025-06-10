@@ -1,4 +1,4 @@
-## Hi👋, I’m Henrique Azank
+## Hi 👋, I’m Henrique Azank
 
 <br />
 
